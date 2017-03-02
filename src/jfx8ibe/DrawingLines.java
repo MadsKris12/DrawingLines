@@ -129,6 +129,11 @@ public class DrawingLines extends Application {
         
         //Dette er en test 
         //Dette er en test 2 
+        // Hvad sker der her 
+        //dsapdaskd
+        //        sa
+        //        da
+        //                ssad
         
         //position the text so it doesn't display on top of the other elements
         question.setX(10);
