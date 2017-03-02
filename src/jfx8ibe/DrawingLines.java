@@ -128,6 +128,7 @@ public class DrawingLines extends Application {
         question.setUnderline(true); 
         
         //Det er pisse smart!
+        //Ja det er så 
         
         //position the text so it doesn't display on top of the other elements
         question.setX(10);
