@@ -129,7 +129,7 @@ public class DrawingLines extends Application {
         
         //Det er pisse smart!
         //Ja det er så 
-        
+               
         //position the text so it doesn't display on top of the other elements
         question.setX(10);
         question.setY(donut.getBoundsInParent().getMinY() + 130);
