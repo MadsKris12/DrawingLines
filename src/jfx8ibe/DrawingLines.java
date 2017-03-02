@@ -127,13 +127,7 @@ public class DrawingLines extends Application {
         Text question = new Text("Do you like donuts?");
         question.setUnderline(true); 
         
-        //Dette er en test 
-        //Dette er en test 2 
-        // Hvad sker der her 
-        //dsapdaskd
-        //        sa
-        //        da
-        //                ssad
+        //Det er pisse smart!
         
         //position the text so it doesn't display on top of the other elements
         question.setX(10);
